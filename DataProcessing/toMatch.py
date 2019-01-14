@@ -49,11 +49,17 @@ def matchLooseCheck(sentence, target):
             
     return True
 
-def perfectMatch(master, barcode, test=False):
+
+
+
+
+#-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-#
+
+def perfectMatch(master, barcode, test=False, kor=True, eng=False, version='perfect'):
     total_len = len(master)
-    # Master 파일의 상품명, trim
-    master_products = list(master['상품명 (한글)'])
-    master_products_trim = [''.join(product.upper().split()) for product in master_products]
+    # 매칭 결과를 저장하는 list
+    PRNM = [[] for i in range(total_len)]
+    BARCODE = [[] for i in range(total_len)]
 
     # BARCODE 파일의 바코드와 상품명, trim
     barcode_barcode = list(barcode['BARCODE'])
@@ -64,24 +70,108 @@ def perfectMatch(master, barcode, test=False):
     start_time = checkTime()
     print('--- Master Data 개수 :',total_len,'---')
 
-    # 매칭 결과를 저장하는 list
-    PRNM = [[] for i in range(total_len)]
-    BARCODE = [[] for i in range(total_len)]
+    if version=='perfect':
+        # match start
+        if kor:
+            # Master 파일의 상품명, trim
+            master_products = list(master['상품명 (한글)'])
+            master_products_trim = [''.join(product.upper().split())
+                                if isinstance(product, str) else ''
+                                for product in master_products ]
 
-    # naive match start
-    for idx, prod in enumerate(master_products_trim):
-        matching = [i for i, prnm in enumerate(barcode_prnms_trim) if prod in prnm]
-        if matching:
-            BARCODE[idx].append(itemgetter(*matching)(barcode_barcode))
-            PRNM[idx].append(itemgetter(*matching)(barcode_prnms))
+            print("--- 상품명 (한국) match start---")
+            for idx, prod in enumerate(master_products_trim):
+                matching = [i for i, prnm in enumerate(barcode_prnms_trim) if prod in prnm]
+                if matching:
+                    BARCODE[idx].append(itemgetter(*matching)(barcode_barcode))
+                    PRNM[idx].append(itemgetter(*matching)(barcode_prnms))
 
-        if idx == total_len//100:
-            print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
-            if test:
-                break
-        if idx % (total_len//50) == 0:
-            print("%3.1f 퍼센트 진행중" % round(idx / total_len * 100))
+                if idx == total_len//100:
+                    print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
+                    if test:
+                        break
+                if idx % (total_len//50) == 0:
+                    print("%3.1f 퍼센트 진행중" % round(idx / total_len * 100))
+
+        # match start (eng)
+        if eng:
+            # Master 파일의 상품명, trim
+            master_products_eng = list(master['상품명 (영문)'])
+            master_products_eng_trim = [''.join(product.upper().split())
+                            if isinstance(product, str) else ''
+                            for product in master_products_eng ]
+
+            print("--- 상품명 (영문) match start---")
+            for idx, prod in enumerate(master_products_eng_trim):
+                matching = [i for i, prnm in enumerate(barcode_prnms_trim) if prod in prnm]
+                if matching:
+                    BARCODE[idx].append(itemgetter(*matching)(barcode_barcode))
+                    PRNM[idx].append(itemgetter(*matching)(barcode_prnms))
+
+                if idx == total_len//100:
+                    print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
+                    if test:
+                        break
+                if idx % (total_len//50) == 0:
+                    print("%3.1f 퍼센트 진행중" % round(idx / total_len * 100))
+
             
+    elif version=='naive':
+        if kor:
+            # Master 파일의 상품명, trim
+            master_products = list(master['상품명 (한글)'])
+            master_products_trim = [product.upper().split()
+                            if isinstance(product, str) else ''
+                            for product in master_products ]
+
+            # match start    
+            for i, prod in enumerate(master_products_trim):
+                for j, prnm in enumerate(barcode_prnms_trim):
+                    if len(prod)<=3:
+                        if matchCheck(prod, prnm):
+                            PRNM[i].append(barcode_prnms[j])
+                            BARCODE[i].append(barcode_barcode[j])
+                    else:
+                        if matchLooseCheck(prod, prnm):
+                            PRNM[i].append(barcode_prnms[j])
+                            BARCODE[i].append(barcode_barcode[j])
+
+                if i == total_len//100 + 1:
+                    print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
+                    if test:
+                        break
+
+                if i % (total_len//50) == 0:
+                    print("%3.1f 퍼센트 진행중" % round(i / total_len * 100))        
+
+        if eng:
+            master_products_eng = list(master['상품명 (영문)'])
+            master_products_eng_trim = [product.upper().split()
+                            if isinstance(product, str) else ''
+                            for product in master_products_eng ]
+
+            # match start    
+            for i, prod in enumerate(master_products_eng_trim):
+                for j, prnm in enumerate(barcode_prnms_trim):
+                    if len(prod)<=3:
+                        if matchCheck(prod, prnm):
+                            PRNM[i].append(barcode_prnms[j])
+                            BARCODE[i].append(barcode_barcode[j])
+                    else:
+                        if matchLooseCheck(prod, prnm):
+                            PRNM[i].append(barcode_prnms[j])
+                            BARCODE[i].append(barcode_barcode[j])
+
+                if i == total_len//100 + 1:
+                    print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
+                    if test:
+                        break
+
+                if i % (total_len//50) == 0:
+                    print("%3.1f 퍼센트 진행중" % round(i / total_len * 100))        
+
+    else:
+        print('version error')
     now = datetime.datetime.now()
     print('--- Match End :',now, '---')
     print("--- 전체 소요 시간 : %0.2f minutes ---" % float((time.time() - start_time)/60))
@@ -90,11 +180,14 @@ def perfectMatch(master, barcode, test=False):
 
     return master
 
+
+#-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-#
+
 def naiveMatch(master, barcode, test=False):
     total_len = len(master)
-    # Master 파일의 상품명, trim
-    master_products = list(master['상품명 (한글)'])
-    master_products_trim = [product.upper().split() for product in master_products]
+    # 매칭 결과를 저장하는 list
+    PRNM = [[] for i in range(total_len)]
+    BARCODE = [[] for i in range(total_len)]
 
     # BARCODE 파일의 바코드와 상품명, trim
     barcode_barcode = list(barcode['BARCODE'])
@@ -105,9 +198,17 @@ def naiveMatch(master, barcode, test=False):
     start_time = checkTime()
     print('--- Master Data 개수 :',total_len,'---')
 
-    # 매칭 결과를 저장하는 list
-    PRNM = [[] for i in range(total_len)]
-    BARCODE = [[] for i in range(total_len)]
+
+    # Master 파일의 상품명, trim
+    master_products = list(master['상품명 (한글)'])
+    master_products_trim = [product.upper().split()
+                    if isinstance(product, str) else ''
+                    for product in master_products ]
+    
+    master_products_eng = list(master['상품명 (영문)'])
+    master_products_eng_trim = [product.upper().split()
+                    if isinstance(product, str) else ''
+                    for product in master_products_eng ]
 
     # match start    
     for i, prod in enumerate(master_products_trim):
