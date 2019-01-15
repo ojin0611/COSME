@@ -81,17 +81,21 @@ def perfectMatch(master, barcode, test=False, kor=True, eng=False, version='perf
 
             print("--- 상품명 (한국) match start---")
             for idx, prod in enumerate(master_products_trim):
-                matching = [i for i, prnm in enumerate(barcode_prnms_trim) if prod in prnm]
-                if matching:
-                    BARCODE[idx].append(itemgetter(*matching)(barcode_barcode))
-                    PRNM[idx].append(itemgetter(*matching)(barcode_prnms))
-
                 if idx == total_len//100:
                     print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
                     if test:
                         break
                 if idx % (total_len//50) == 0:
                     print("%3.1f 퍼센트 진행중" % round(idx / total_len * 100))
+                    
+                if len(prod)<1:
+                    continue
+                    
+                matching = [i for i, prnm in enumerate(barcode_prnms_trim) if prod in prnm]
+                if matching:
+                    BARCODE[idx].append(itemgetter(*matching)(barcode_barcode))
+                    PRNM[idx].append(itemgetter(*matching)(barcode_prnms))
+
 
         # match start (eng)
         if eng:
@@ -103,17 +107,21 @@ def perfectMatch(master, barcode, test=False, kor=True, eng=False, version='perf
 
             print("--- 상품명 (영문) match start---")
             for idx, prod in enumerate(master_products_eng_trim):
-                matching = [i for i, prnm in enumerate(barcode_prnms_trim) if prod in prnm]
-                if matching:
-                    BARCODE[idx].append(itemgetter(*matching)(barcode_barcode))
-                    PRNM[idx].append(itemgetter(*matching)(barcode_prnms))
-
                 if idx == total_len//100:
                     print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
                     if test:
                         break
                 if idx % (total_len//50) == 0:
                     print("%3.1f 퍼센트 진행중" % round(idx / total_len * 100))
+                    
+                if len(prod)<1:
+                    continue
+                    
+                matching = [i for i, prnm in enumerate(barcode_prnms_trim) if prod in prnm]
+                if matching:
+                    BARCODE[idx].append(itemgetter(*matching)(barcode_barcode))
+                    PRNM[idx].append(itemgetter(*matching)(barcode_prnms))
+
 
             
     elif version=='naive':
@@ -123,9 +131,20 @@ def perfectMatch(master, barcode, test=False, kor=True, eng=False, version='perf
             master_products_trim = [product.upper().split()
                             if isinstance(product, str) else ''
                             for product in master_products ]
-
+            
+            print("--- 상품명 (한국) match start---")
             # match start    
             for i, prod in enumerate(master_products_trim):
+                if i == total_len//100 + 1:
+                    print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
+                    if test:
+                        break
+
+                if i % (total_len//50) == 0:
+                    print("%3.1f 퍼센트 진행중" % round(i / total_len * 100))        
+                    
+                if len(prod)<1:
+                    continue
                 for j, prnm in enumerate(barcode_prnms_trim):
                     if len(prod)<=3:
                         if matchCheck(prod, prnm):
@@ -136,13 +155,7 @@ def perfectMatch(master, barcode, test=False, kor=True, eng=False, version='perf
                             PRNM[i].append(barcode_prnms[j])
                             BARCODE[i].append(barcode_barcode[j])
 
-                if i == total_len//100 + 1:
-                    print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
-                    if test:
-                        break
-
-                if i % (total_len//50) == 0:
-                    print("%3.1f 퍼센트 진행중" % round(i / total_len * 100))        
+        start_time = checkTime()
 
         if eng:
             master_products_eng = list(master['상품명 (영문)'])
@@ -150,8 +163,19 @@ def perfectMatch(master, barcode, test=False, kor=True, eng=False, version='perf
                             if isinstance(product, str) else ''
                             for product in master_products_eng ]
 
+            print("--- 상품명 (영문) match start---")
             # match start    
             for i, prod in enumerate(master_products_eng_trim):
+                if i == total_len//100 + 1:
+                    print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
+                    if test:
+                        break
+
+                if i % (total_len//50) == 0:
+                    print("%3.1f 퍼센트 진행중" % round(i / total_len * 100))        
+                if len(prod)<1:
+                    continue
+                    
                 for j, prnm in enumerate(barcode_prnms_trim):
                     if len(prod)<=3:
                         if matchCheck(prod, prnm):
@@ -162,13 +186,6 @@ def perfectMatch(master, barcode, test=False, kor=True, eng=False, version='perf
                             PRNM[i].append(barcode_prnms[j])
                             BARCODE[i].append(barcode_barcode[j])
 
-                if i == total_len//100 + 1:
-                    print("--- 예상 소요 시간 : %0.2f minutes" % float((time.time() - start_time)*100/60), '---')
-                    if test:
-                        break
-
-                if i % (total_len//50) == 0:
-                    print("%3.1f 퍼센트 진행중" % round(i / total_len * 100))        
 
     else:
         print('version error')
