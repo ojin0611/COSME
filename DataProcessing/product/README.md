@@ -1,9 +1,7 @@
 # Crawling Guide
 by 영진
 
-## 기본 골격
-
-
+## main
 
 ```python
 from bs4 import BeautifulSoup as bs # url, text를 얻어올 때 사용
@@ -22,6 +20,7 @@ for category in categoryList:
 
 write(result)
 ```
+## functions
 
 ### read(siteURL)
 ```python
@@ -93,7 +92,10 @@ with open(output_name, 'w', encoding='UTF-8' as file):
 return itemList # list
 ```
 
-#### 자주 쓰는 BeautifulSoup 기능
+
+## how to use modules
+
+### 자주 쓰는 BeautifulSoup 기능
 ```python
 soup = bs(html,'html.parser') # bs에서 사용하기 위해 parsing
 soup.find('tag',{'id':'id_of_tag'})
@@ -103,7 +105,7 @@ tag.img['src']
 
 ```
 
-#### 자주 쓰는 selenium 기능
+### 자주 쓰는 selenium 기능
 ```python
 driver = webdriver.Chrome(path_chromedriver)  # 시작
 driver.get(url) # url 접속
@@ -116,7 +118,8 @@ something.click()
 
 ```
 
-#### column 설정
+## 기타
+### column 설정
 1. name,
 2. image, (메인이미지 * 색 개수)
 3. category, (사이트 기준)
