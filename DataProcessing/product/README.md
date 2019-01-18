@@ -1,6 +1,19 @@
 # Crawling Guide
 by 영진
 
+## Output
+
+### column  definition
+1. name (상품명) text
+2. image (메인이미지 * 색 개수) text (url)
+3. category (사이트 기준) text
+4. volume (용량/사이즈) text
+5. originalPrice (판매가) int
+6. salePrice (할인가) int
+7. brand (브랜드명) text
+8. url (상품정보 url) text(url)
+9. color (색상) text
+
 ## main
 
 ```python
@@ -11,6 +24,7 @@ from selenium import webdriver # url 접속이 불가능할때 사용 (click 등
 read(siteURL)
 
 categoryList = getCategoryList() # 카테고리별 링크 또는 클릭대상
+result = []
 for category in categoryList:
 	read(category)
 	itemList = getItemList() # item별 링크
@@ -20,6 +34,7 @@ for category in categoryList:
 
 write(result)
 ```
+
 ## functions
 
 ### read(siteURL)
@@ -95,7 +110,7 @@ return itemList # list
 
 ## how to use modules
 
-### 자주 쓰는 BeautifulSoup 기능
+### BeautifulSoup
 ```python
 soup = bs(html,'html.parser') # bs에서 사용하기 위해 parsing
 soup.find('tag',{'id':'id_of_tag'})
@@ -105,7 +120,7 @@ tag.img['src']
 
 ```
 
-### 자주 쓰는 selenium 기능
+### selenium
 ```python
 driver = webdriver.Chrome(path_chromedriver)  # 시작
 driver.get(url) # url 접속
@@ -114,19 +129,9 @@ driver.page_source # 해당 페이지의 html 가져오기
 driver.find_element_by_link_text(text)
 driver.find_elements_by_class_name(class_name)
 something.click()
+driver.execute_script("window.scrollTo(0, 0)") # 페이지 맨 위로 올리기 
 
 
 ```
 
-## 기타
-### column 설정
-1. name,
-2. image, (메인이미지 * 색 개수)
-3. category, (사이트 기준)
-4. volume, 
-5. originalPrice, getNumber(Regular Expression) 이용하여 숫자 추출
-6. salePrice,
-7. brand,
-8. url, (대부분 1개)
-9. color, (text)
 
