@@ -1,13 +1,14 @@
 # Crawling Guide
 by 영진
-- branch test 2
-
 ## Output
 
 ### column  definition
 1. name (상품명) text
-2. image (메인이미지 * 색 개수) text (url)
+   - 브랜드명 섞여있으면 제거
+2. image (이미지 url) text
+   - 메인이미지 + 색상 선택했을 때 이미지
 3. category (사이트 기준) text
+   - 예시 : 메이크업 > 포인트 메이크업 > 립 
 4. volume (용량/사이즈) text
 5. originalPrice (판매가) int
 6. salePrice (할인가) int
