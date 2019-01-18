@@ -130,6 +130,8 @@ driver.find_element_by_link_text(text)
 driver.find_elements_by_class_name(class_name)
 something.click()
 driver.execute_script("window.scrollTo(0, 0)") # 페이지 맨 위로 올리기 
+driver.execute_script('arguments[0].scrollIntoView(true);', target) # target이 보이도록 scroll하기
+
 
 
 ```
