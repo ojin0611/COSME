@@ -27,6 +27,7 @@ categoryList = getCategoryList() # 카테고리별 링크 또는 클릭대상
 result = []
 for category in categoryList:
 	read(category)
+    clickSeeMoreButton() # 더보기 클릭 필요할 때도 있다.
 	itemList = getItemList() # item별 링크
 	for item in itemList:
 		read(item)
@@ -61,6 +62,19 @@ categories = findFunction() # 사이트마다 다름
 categoryList = [category.something for category in categories]
 
 return categoryList
+```
+
+### clickSeeMoreButton()
+```python
+
+    while True:
+        try:
+            seeMoreButton = driver.find_element_by_class_name(seeMoreButton)            
+            seeMoreButton.click()
+            time.sleep(3)
+            
+        except:
+            break
 ```
 
 ### getItemList
