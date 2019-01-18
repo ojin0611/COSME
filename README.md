@@ -1,3 +1,3 @@
-# Data in COSMOCHAIN
+# Data, COSMOCHAIN
 1. COSMEE Pilot Data Analysis
 2. Data Processing
