@@ -47,7 +47,7 @@ path = 'chromedriver.exe' if (platform.system() == 'Windows') else '/Users/jg/De
 
 driver = webdriver.Chrome(path)
 
-url_home = 'http://www.home.url' # /blah/blah 형태로 url이 나오기 때문에 앞에 더해주기 위해 저장
+url_home = 'http://www.home.url' # url이 보통 /blah/blah 형태로 나오기 때문에 앞에 더해주기 위해 저장
 url_prod = 'http://www.prod.url'
 driver.get(url_prod)
 
@@ -133,7 +133,7 @@ soup.find('tag',{'id':'id_of_tag'})
 soup.find_all('tag',{'class':'class_name'})
 tag.a['href']
 tag.img['src']
-
+tag.parent
 ```
 
 ### selenium
