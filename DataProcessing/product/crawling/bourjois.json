@@ -1,569 +1,570 @@
 [
 	{
 		"name": "NEW 헬씨 믹스 비비크림",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=511&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201805/511_shop1_395531.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 33000,
 		"originalPrice": 33000,
+		"color": "01 라이트",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=511&cate_no=24&display_group=1",
-		"color": "01 라이트"
+		"volume": "30ml"
 	},
 	{
 		"name": "NEW 헬씨 믹스 비비크림",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=511&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201805/511_shop1_395531.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 33000,
 		"originalPrice": 33000,
+		"color": "02 미디움",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=511&cate_no=24&display_group=1",
-		"color": "02 미디움"
+		"volume": "30ml"
 	},
 	{
 		"name": "NEW 헬씨 믹스 블러링 프라이머",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=510&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201804/510_shop1_298585.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "20ml",
 		"salePrice": 26000,
 		"originalPrice": 26000,
+		"color": "#",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=510&cate_no=24&display_group=1",
-		"color": ""
+		"volume": "20ml"
 	},
 	{
 		"name": "브론징 파우더 델리스 드 뿌드르",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=484&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201705/484_shop1_891043.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "",
 		"salePrice": 30000,
 		"originalPrice": 30000,
+		"color": "#",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=484&cate_no=24&display_group=1",
-		"color": ""
+		"volume": "#"
 	},
 	{
 		"name": "NEW 헬씨 믹스 생과일 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=465&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201701/465_shop1_332254.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "7.8ml",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "51 Light 라이트",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=465&cate_no=24&display_group=1",
-		"color": "51 Light 라이트"
+		"volume": "7.8ml"
 	},
 	{
 		"name": "NEW 헬씨 믹스 생과일 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=465&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201701/465_shop1_332254.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "7.8ml",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "52 Medium 미디움",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=465&cate_no=24&display_group=1",
-		"color": "52 Medium 미디움"
+		"volume": "7.8ml"
 	},
 	{
 		"name": "NEW 헬씨 믹스 생과일 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=465&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201701/465_shop1_332254.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "7.8ml",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "53 Dark 다크",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=465&cate_no=24&display_group=1",
-		"color": "53 Dark 다크"
+		"volume": "7.8ml"
 	},
 	{
 		"name": "NEW 헬씨 믹스 생과일 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=464&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201701/464_shop1_573121.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 35000,
 		"originalPrice": 35000,
+		"color": "50 Rose Ivory 로즈 아이보리",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=464&cate_no=24&display_group=1",
-		"color": "50 Rose Ivory 로즈 아이보리"
+		"volume": "30ml"
 	},
 	{
 		"name": "NEW 헬씨 믹스 생과일 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=464&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201701/464_shop1_573121.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 35000,
 		"originalPrice": 35000,
+		"color": "51 Light Vanilla 라이트 바닐라",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=464&cate_no=24&display_group=1",
-		"color": "51 Light Vanilla 라이트 바닐라"
+		"volume": "30ml"
 	},
 	{
 		"name": "NEW 헬씨 믹스 생과일 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=464&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201701/464_shop1_573121.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 35000,
 		"originalPrice": 35000,
+		"color": "52 Vanilla 바닐라",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=464&cate_no=24&display_group=1",
-		"color": "52 Vanilla 바닐라"
+		"volume": "30ml"
 	},
 	{
 		"name": "시티 래디언스 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=420&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201602/420_shop1_199284.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 38000,
 		"originalPrice": 38000,
+		"color": "01 로즈 아이보리",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=420&cate_no=24&display_group=1",
-		"color": "01 로즈 아이보리"
+		"volume": "30ml"
 	},
 	{
 		"name": "시티 래디언스 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=420&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201602/420_shop1_199284.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 38000,
 		"originalPrice": 38000,
+		"color": "02 바닐라",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=420&cate_no=24&display_group=1",
-		"color": "02 바닐라"
+		"volume": "30ml"
 	},
 	{
 		"name": "시티 래디언스 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=420&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201602/420_shop1_199284.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 38000,
 		"originalPrice": 38000,
+		"color": "03 베이지 라이트",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=420&cate_no=24&display_group=1",
-		"color": "03 베이지 라이트"
+		"volume": "30ml"
 	},
 	{
 		"name": "시티 래디언스 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=421&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201602/421_shop1_424830.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "7.8ml",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "01 아이보리",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=421&cate_no=24&display_group=1",
-		"color": "01 아이보리"
+		"volume": "7.8ml"
 	},
 	{
 		"name": "시티 래디언스 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=421&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201602/421_shop1_424830.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "7.8ml",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "02 베이지",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=421&cate_no=24&display_group=1",
-		"color": "02 베이지"
+		"volume": "7.8ml"
 	},
 	{
 		"name": "시티 래디언스 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=421&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201602/421_shop1_424830.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "7.8ml",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "03 다크베이지",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=421&cate_no=24&display_group=1",
-		"color": "03 다크베이지"
+		"volume": "7.8ml"
 	},
 	{
 		"name": "에어매트 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=400&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201508/400_shop1_477960.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/400_shop1_539447.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/400_shop1_669541.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 38000,
 		"originalPrice": 38000,
+		"color": "01 로즈 아이보리",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=400&cate_no=24&display_group=1",
-		"color": "01 로즈 아이보리"
+		"volume": "30ml"
 	},
 	{
 		"name": "에어매트 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=400&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201508/400_shop1_477960.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/400_shop1_539447.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/400_shop1_669541.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 38000,
 		"originalPrice": 38000,
+		"color": "02 바닐라",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=400&cate_no=24&display_group=1",
-		"color": "02 바닐라"
+		"volume": "30ml"
 	},
 	{
 		"name": "헬씨 믹스 세럼 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=316&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201504/316_shop1_877857.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 40000,
 		"originalPrice": 40000,
+		"color": "51 바닐라 클레어",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=316&cate_no=24&display_group=1",
-		"color": "51 바닐라 클레어"
+		"volume": "30ml"
 	},
 	{
 		"name": "헬씨 믹스 세럼 파운데이션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=316&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201504/316_shop1_877857.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 40000,
 		"originalPrice": 40000,
+		"color": "52 바닐라",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=316&cate_no=24&display_group=1",
-		"color": "52 바닐라"
+		"volume": "30ml"
 	},
 	{
 		"name": "실크 에디션 콤팩트 파우더",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=336&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201410/336_shop1_709133.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "9g",
 		"salePrice": 31000,
 		"originalPrice": 31000,
+		"color": "51 Porcelaine",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=336&cate_no=24&display_group=1",
-		"color": "51 Porcelaine"
+		"volume": "9g"
 	},
 	{
 		"name": "실크 에디션 콤팩트 파우더",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=336&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201410/336_shop1_709133.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "9g",
 		"salePrice": 31000,
 		"originalPrice": 31000,
+		"color": "52 Vanille",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=336&cate_no=24&display_group=1",
-		"color": "52 Vanille"
+		"volume": "9g"
 	},
 	{
 		"name": "실크 에디션 콤팩트 파우더",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=336&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201410/336_shop1_709133.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "9g",
 		"salePrice": 31000,
 		"originalPrice": 31000,
+		"color": "54 Beige Rose",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=336&cate_no=24&display_group=1",
-		"color": "54 Beige Rose"
+		"volume": "9g"
 	},
 	{
 		"name": "자바 파우더(뿌드르 드 리즈 자바 파우더)",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=311&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/311_shop1_797454.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "3.5g",
 		"salePrice": 36000,
 		"originalPrice": 36000,
+		"color": "#",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=311&cate_no=24&display_group=1",
-		"color": ""
+		"volume": "3.5g"
 	},
 	{
 		"name": "123 퍼펙트 CC 아이 크림",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=270&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/270_shop1_952179.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "1.5ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "21 아이보리",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=270&cate_no=24&display_group=1",
-		"color": "21 아이보리"
+		"volume": "1.5ml"
 	},
 	{
 		"name": "123 퍼펙트 CC 아이 크림",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=270&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/270_shop1_952179.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "1.5ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "22 베이지 끌레르",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=270&cate_no=24&display_group=1",
-		"color": "22 베이지 끌레르"
+		"volume": "1.5ml"
 	},
 	{
 		"name": "123 퍼펙트 CC크림",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=272&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201503/272_shop1_542465.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 36000,
 		"originalPrice": 36000,
+		"color": "31 아이보리",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=272&cate_no=24&display_group=1",
-		"color": "31 아이보리"
+		"volume": "30ml"
 	},
 	{
 		"name": "123 퍼펙트 CC크림",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=272&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201503/272_shop1_542465.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "30ml",
 		"salePrice": 36000,
 		"originalPrice": 36000,
+		"color": "32 베이지 끌레르",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=272&cate_no=24&display_group=1",
-		"color": "32 베이지 끌레르"
+		"volume": "30ml"
 	},
 	{
 		"name": "해피라이트 세럼 프라이머 (매트/뤼미에르)",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=274&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201412/274_shop1_650959.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "15ml",
 		"salePrice": 30000,
 		"originalPrice": 30000,
+		"color": "매트",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=274&cate_no=24&display_group=1",
-		"color": "매트"
+		"volume": "15ml"
 	},
 	{
 		"name": "해피라이트 세럼 프라이머 (매트/뤼미에르)",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=274&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201412/274_shop1_650959.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "15ml",
 		"salePrice": 30000,
 		"originalPrice": 30000,
+		"color": "뤼미에르",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=274&cate_no=24&display_group=1",
-		"color": "뤼미에르"
+		"volume": "15ml"
 	},
 	{
 		"name": "헬씨 믹스 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=307&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/307_shop1_849449.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "51 에끌라 끌레어",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=307&cate_no=24&display_group=1",
-		"color": "51 에끌라 끌레어"
+		"volume": "10ml"
 	},
 	{
 		"name": "헬씨 믹스 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=307&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/307_shop1_849449.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "52 에끌라 미디움",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=307&cate_no=24&display_group=1",
-		"color": "52 에끌라 미디움"
+		"volume": "10ml"
 	},
 	{
 		"name": "스틱 안티세른 코렉터",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=308&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/308_shop1_176218.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "2.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "71 베이지 끌레르",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=308&cate_no=24&display_group=1",
-		"color": "71 베이지 끌레르"
+		"volume": "2.5g"
 	},
 	{
 		"name": "스틱 안티세른 코렉터",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=308&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/308_shop1_176218.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "2.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "72 베이지 로제",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=308&cate_no=24&display_group=1",
-		"color": "72 베이지 로제"
+		"volume": "2.5g"
 	},
 	{
 		"name": "헬씨 믹스 밸런스 프레스드 파우더",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=271&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/271_shop1_943365.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "9g",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "52 바닐라",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=271&cate_no=24&display_group=1",
-		"color": "52 바닐라"
+		"volume": "9g"
 	},
 	{
 		"name": "헬씨 믹스 밸런스 프레스드 파우더",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=271&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/271_shop1_943365.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "9g",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "53 베이지 클레어",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=271&cate_no=24&display_group=1",
-		"color": "53 베이지 클레어"
+		"volume": "9g"
 	},
 	{
 		"name": "실크 에디션 터치 업 파우더",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=481&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201703/481_shop1_400554.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "7.5g",
 		"salePrice": 26000,
 		"originalPrice": 26000,
+		"color": "#",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=481&cate_no=24&display_group=1",
-		"color": ""
+		"volume": "7.5g"
 	},
 	{
 		"name": "해피라이트 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=281&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/281_shop1_367774.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "2.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "21 아이보리",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=281&cate_no=24&display_group=1",
-		"color": "21 아이보리"
+		"volume": "2.5g"
 	},
 	{
 		"name": "해피라이트 컨실러",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=281&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/281_shop1_367774.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "2.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "22 베이지 로제",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=281&cate_no=24&display_group=1",
-		"color": "22 베이지 로제"
+		"volume": "2.5g"
 	},
 	{
 		"name": "크렘 무쌍뜨 데마끼앙뜨",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=392&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201507/392_shop1_689223.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "150ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "#",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=392&cate_no=24&display_group=1",
-		"color": ""
+		"volume": "150ml"
 	},
 	{
 		"name": "오 미셀레르 익스프레스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=393&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201507/393_shop1_627971.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "250ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "#",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=393&cate_no=24&display_group=1",
-		"color": ""
+		"volume": "250ml"
 	},
 	{
 		"name": "듀오 초콜릿 하이라이터 & 브론저",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=381&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/381_shop1_880348.jpg"
 		],
-		"category": "홈 > FACE",
-		"volume": "16.5g",
 		"salePrice": 30000,
 		"originalPrice": 30000,
+		"color": "#",
+		"category": "홈 > FACE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=381&cate_no=24&display_group=1",
-		"color": ""
+		"volume": "16.5g"
 	},
 	{
 		"name": "플라워 퍼펙션 스무딩 프라이머",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=312&cate_no=24&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/312_shop1_440195.jpg"
 		],
+		"salePrice": 24000,
+		"originalPrice": 24000,
+		"color": "#",
 		"category": "홈 > FACE",
-		"volume": "7ml",
-		"salePrice": 24000,
-		"originalPrice": 24000,
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=312&cate_no=24&display_group=1",
-		"color": ""
+		"volume": "7ml"
 	},
 	{
 		"name": "아쿠아 블러쉬 12hr",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=379&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/379_shop1_205413.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_264646.jpg",
@@ -571,16 +572,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_783693.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_236604.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "7.7ml",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "01 잉게 누드 (-7,200원)",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=379&cate_no=25&display_group=1",
-		"color": "01 잉게 누드 (-7,200원)"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "아쿠아 블러쉬 12hr",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=379&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/379_shop1_205413.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_264646.jpg",
@@ -588,16 +589,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_783693.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_236604.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "7.7ml",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "02 코코리코레일 (-7,200원)",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=379&cate_no=25&display_group=1",
-		"color": "02 코코리코레일 (-7,200원)"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "아쿠아 블러쉬 12hr",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=379&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/379_shop1_205413.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_264646.jpg",
@@ -605,16 +606,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_783693.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_236604.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "7.7ml",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "03 핑크 트와이스",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=379&cate_no=25&display_group=1",
-		"color": "03 핑크 트와이스"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "아쿠아 블러쉬 12hr",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=379&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/379_shop1_205413.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_264646.jpg",
@@ -622,562 +623,562 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_783693.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/379_shop1_236604.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "7.7ml",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "04 베리 나이스",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=379&cate_no=25&display_group=1",
-		"color": "04 베리 나이스"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "10 샤떼뉴 도레",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "10 샤떼뉴 도레"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "15 로즈 에끌라",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "15 로즈 에끌라"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "16 로즈 쿠 드 푸드르",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "16 로즈 쿠 드 푸드르"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "32 앙브르 도르",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "32 앙브르 도르"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "33 릴라 도르",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "33 릴라 도르"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "34 로즈 도르",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "34 로즈 도르"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "41 헬씨 믹스",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "41 헬씨 믹스"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "42 로즈 블라썸",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "42 로즈 블라썸"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "43 코랄 템테이션",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "43 코랄 템테이션"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "48 로즈 브륀",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "48 로즈 브륀"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "54 로즈 프리송",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "54 로즈 프리송"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "72 터멧",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "72 터멧"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "74 로즈 앙브르",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "74 로즈 앙브르"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "85 시에나",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "85 시에나"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "92 상탈",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "92 상탈"
+		"volume": "2.5g"
 	},
 	{
 		"name": "블러쉬",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/287_shop1_459627.jpg"
 		],
-		"category": "홈 > CHEEK",
-		"volume": "2.5g",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "95 로즈 드 쟈스프",
+		"category": "홈 > CHEEK",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=287&cate_no=25&display_group=1",
-		"color": "95 로즈 드 쟈스프"
+		"volume": "2.5g"
 	},
 	{
 		"name": "새틴 &메탈 에디션 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201808/3f3e858cd4fae3f9facf99292d39d1f8.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "01 베이지셀러",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
-		"color": "01 베이지셀러"
+		"volume": "8ml"
 	},
 	{
 		"name": "새틴 &메탈 에디션 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201808/3f3e858cd4fae3f9facf99292d39d1f8.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "02 오드로즈",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
-		"color": "02 오드로즈"
+		"volume": "8ml"
 	},
 	{
 		"name": "새틴 &메탈 에디션 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201808/3f3e858cd4fae3f9facf99292d39d1f8.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "03 무브 유어 바디",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
-		"color": "03 무브 유어 바디"
+		"volume": "8ml"
 	},
 	{
 		"name": "새틴 &메탈 에디션 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201808/3f3e858cd4fae3f9facf99292d39d1f8.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "04 아브라카다 브라운",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
-		"color": "04 아브라카다 브라운"
+		"volume": "8ml"
 	},
 	{
 		"name": "새틴 &메탈 에디션 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201808/3f3e858cd4fae3f9facf99292d39d1f8.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "05 라라방드",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
-		"color": "05 라라방드"
+		"volume": "8ml"
 	},
 	{
 		"name": "새틴 &메탈 에디션 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201808/3f3e858cd4fae3f9facf99292d39d1f8.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "06 드라이브 미 그레이지",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
-		"color": "06 드라이브 미 그레이지"
+		"volume": "8ml"
 	},
 	{
 		"name": "새틴 &메탈 에디션 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201808/3f3e858cd4fae3f9facf99292d39d1f8.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "07 오드 커먼",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
-		"color": "07 오드 커먼"
+		"volume": "8ml"
 	},
 	{
 		"name": "새틴 &메탈 에디션 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201808/3f3e858cd4fae3f9facf99292d39d1f8.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "08 아이언 우먼",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=519&cate_no=26&display_group=1",
-		"color": "08 아이언 우먼"
+		"volume": "8ml"
 	},
 	{
 		"name": "B)Brow Pomade",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=517&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201806/517_shop1_15302537924969.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.25g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "T01 Blond",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=517&cate_no=26&display_group=1",
-		"color": "T01 Blond"
+		"volume": "3.25g"
 	},
 	{
 		"name": "B)Brow Pomade",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=517&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201806/517_shop1_15302537924969.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.25g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "T02 Chatain",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=517&cate_no=26&display_group=1",
-		"color": "T02 Chatain"
+		"volume": "3.25g"
 	},
 	{
 		"name": "B)Brow Pomade",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=517&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201806/517_shop1_15302537924969.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.25g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "T03 Brun",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=517&cate_no=26&display_group=1",
-		"color": "T03 Brun"
+		"volume": "3.25g"
 	},
 	{
 		"name": "라이너 펠트 슬림",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=485&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201706/485_shop1_954786.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "",
 		"salePrice": 27000,
 		"originalPrice": 27000,
+		"color": "16. 느와르",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=485&cate_no=26&display_group=1",
-		"color": "16. 느와르"
+		"volume": "#"
 	},
 	{
 		"name": "라이너 펠트 슬림",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=485&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201706/485_shop1_954786.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "",
 		"salePrice": 27000,
 		"originalPrice": 27000,
+		"color": "17. 울트라블랙",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=485&cate_no=26&display_group=1",
-		"color": "17. 울트라블랙"
+		"volume": "#"
 	},
 	{
 		"name": "팔레트 레 누드",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=459&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/459_shop1_613617.png"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 32000,
 		"originalPrice": 32000,
+		"color": "#",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=459&cate_no=26&display_group=1",
-		"color": ""
+		"volume": "4.5g"
 	},
 	{
 		"name": "볼륨 리빌 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=427&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201610/427_shop1_599677.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "7.5ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "#",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=427&cate_no=26&display_group=1",
-		"color": ""
+		"volume": "7.5ml"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "02 오버로즈",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "02 오버로즈"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "03  아이 러브 블루",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "03  아이 러브 블루"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "04 락 디스 카키",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "04 락 디스 카키"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "06 업사이드 브라운",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "06 업사이드 브라운"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "08 오션 오브레션",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "08 오션 오브레션"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "09 그레이지 인 러브",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "09 그레이지 인 러브"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "10 웰컴 블랙",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "10 웰컴 블랙"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "12 사우 몬데인",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "12 사우 몬데인"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "13 토프씨메",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "13 토프씨메"
+		"volume": "3.5g"
 	},
 	{
 		"name": "스모키 스토리 아이섀도",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201601/338_shop1_813746.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "3.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "14 톰베 데 누드",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=338&cate_no=26&display_group=1",
-		"color": "14 톰베 데 누드"
+		"volume": "3.5g"
 	},
 	{
 		"name": "라이너 스타일로 울트라 블랙",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=405&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201510/405_shop1_788370.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "0.28g",
 		"salePrice": 27000,
 		"originalPrice": 27000,
+		"color": "#",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=405&cate_no=26&display_group=1",
-		"color": ""
+		"volume": "0.28g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1189,16 +1190,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "01 잉게누드",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "01 잉게누드"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1210,16 +1211,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "02 제네로제",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "02 제네로제"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1231,16 +1232,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "03 오리지날",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "03 오리지날"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1252,16 +1253,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "04 에모바",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "04 에모바"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1273,16 +1274,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "05 무비스타",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "05 무비스타"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1294,16 +1295,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "06 유토피크",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "06 유토피크"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1315,16 +1316,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "07 브룬드폴리",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "07 브룬드폴리"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1336,16 +1337,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "08 녹땀브룬",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "08 녹땀브룬"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1357,16 +1358,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "09 뤼네르",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "09 뤼네르"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1378,16 +1379,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "10 엥세지 사블",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "10 엥세지 사블"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1399,16 +1400,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "11 아 로 드 로즈",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "11 아 로 드 로즈"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1420,16 +1421,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "12 엑스트라 오르 디네르",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "12 엑스트라 오르 디네르"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1441,16 +1442,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "13 엑스트라 베흐티",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "13 엑스트라 베흐티"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1462,16 +1463,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "14 베흐 티지너즈",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "14 베흐 티지너즈"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1483,16 +1484,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "15호 파르메 티큘리에르",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "15호 파르메 티큘리에르"
+		"volume": "1.7g"
 	},
 	{
 		"name": "NEW 더 리틀 라운드팟 아이섀도우",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/401_shop1_108429.png",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_750516.jpg",
@@ -1504,16 +1505,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_458883.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201509/401_shop1_106230.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.7g",
 		"salePrice": 21000,
 		"originalPrice": 21000,
+		"color": "16 그리장트",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=401&cate_no=26&display_group=1",
-		"color": "16 그리장트"
+		"volume": "1.7g"
 	},
 	{
 		"name": "볼륨 글래머 에페 푸쉬 업 마스카라 6Color",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/337_shop1_936702.png",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_306071.jpg",
@@ -1521,16 +1522,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_864109.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_243342.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "원더 블랙",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
-		"color": "원더 블랙"
+		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml"
 	},
 	{
 		"name": "볼륨 글래머 에페 푸쉬 업 마스카라 6Color",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/337_shop1_936702.png",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_306071.jpg",
@@ -1538,16 +1539,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_864109.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_243342.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "울트라 블랙 에디션",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
-		"color": "울트라 블랙 에디션"
+		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml"
 	},
 	{
 		"name": "볼륨 글래머 에페 푸쉬 업 마스카라 6Color",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/337_shop1_936702.png",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_306071.jpg",
@@ -1555,16 +1556,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_864109.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_243342.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "패뷸러스 브라운",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
-		"color": "패뷸러스 브라운"
+		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml"
 	},
 	{
 		"name": "볼륨 글래머 에페 푸쉬 업 마스카라 6Color",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/337_shop1_936702.png",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_306071.jpg",
@@ -1572,16 +1573,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_864109.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_243342.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "블랙 워터프루프",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
-		"color": "블랙 워터프루프"
+		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml"
 	},
 	{
 		"name": "볼륨 글래머 에페 푸쉬 업 마스카라 6Color",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/337_shop1_936702.png",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_306071.jpg",
@@ -1589,16 +1590,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_864109.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_243342.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "패시네이팅 블루",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
-		"color": "패시네이팅 블루"
+		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml"
 	},
 	{
 		"name": "볼륨 글래머 에페 푸쉬 업 마스카라 6Color",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201702/337_shop1_936702.png",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_306071.jpg",
@@ -1606,887 +1607,887 @@
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_864109.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201508/337_shop1_243342.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "블랙 세럼",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=337&cate_no=26&display_group=1",
-		"color": "블랙 세럼"
+		"volume": "원더 블랙 7ml / 울트라 블랙 에디션, 페뷸러스 브라운, 블랙 워터프루프 7ml"
 	},
 	{
 		"name": "수르실 프레씨지옹",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/372_shop1_682217.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.13g",
 		"salePrice": 17000,
 		"originalPrice": 17000,
+		"color": "01 느와르 에벤",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
-		"color": "01 느와르 에벤"
+		"volume": "1.13g"
 	},
 	{
 		"name": "수르실 프레씨지옹",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/372_shop1_682217.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.13g",
 		"salePrice": 17000,
 		"originalPrice": 17000,
+		"color": "03 샤탱",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
-		"color": "03 샤탱"
+		"volume": "1.13g"
 	},
 	{
 		"name": "수르실 프레씨지옹",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/372_shop1_682217.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.13g",
 		"salePrice": 17000,
 		"originalPrice": 17000,
+		"color": "04 블론드 퐁세",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
-		"color": "04 블론드 퐁세"
+		"volume": "1.13g"
 	},
 	{
 		"name": "수르실 프레씨지옹",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/372_shop1_682217.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.13g",
 		"salePrice": 17000,
 		"originalPrice": 17000,
+		"color": "06 블론드 클레어",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
-		"color": "06 블론드 클레어"
+		"volume": "1.13g"
 	},
 	{
 		"name": "수르실 프레씨지옹",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/372_shop1_682217.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.13g",
 		"salePrice": 17000,
 		"originalPrice": 17000,
+		"color": "07 누아젯",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
-		"color": "07 누아젯"
+		"volume": "1.13g"
 	},
 	{
 		"name": "수르실 프레씨지옹",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/372_shop1_682217.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.13g",
 		"salePrice": 17000,
 		"originalPrice": 17000,
+		"color": "08 브랭 브루넷",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=372&cate_no=26&display_group=1",
-		"color": "08 브랭 브루넷"
+		"volume": "1.13g"
 	},
 	{
 		"name": "메가 라이너 울트라 블랙",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=339&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201411/339_shop1_440549.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "0.8ml",
 		"salePrice": 27000,
 		"originalPrice": 27000,
+		"color": "#",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=339&cate_no=26&display_group=1",
-		"color": ""
+		"volume": "0.8ml"
 	},
 	{
 		"name": "브로우 디자인 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=371&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/371_shop1_735289.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "6ml",
 		"salePrice": 18000,
 		"originalPrice": 18000,
+		"color": "01 트랜스 페런트",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=371&cate_no=26&display_group=1",
-		"color": "01 트랜스 페런트"
+		"volume": "6ml"
 	},
 	{
 		"name": "브로우 디자인 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=371&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/371_shop1_735289.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "6ml",
 		"salePrice": 18000,
 		"originalPrice": 18000,
+		"color": "02 블론드",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=371&cate_no=26&display_group=1",
-		"color": "02 블론드"
+		"volume": "6ml"
 	},
 	{
 		"name": "브로우 디자인 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=371&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/371_shop1_735289.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "6ml",
 		"salePrice": 18000,
 		"originalPrice": 18000,
+		"color": "03 샤탱",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=371&cate_no=26&display_group=1",
-		"color": "03 샤탱"
+		"volume": "6ml"
 	},
 	{
 		"name": "브로우 디자인 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=371&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201505/371_shop1_735289.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "6ml",
 		"salePrice": 18000,
 		"originalPrice": 18000,
+		"color": "04 브랭",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=371&cate_no=26&display_group=1",
-		"color": "04 브랭"
+		"volume": "6ml"
 	},
 	{
 		"name": "스모키 아이즈 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/295_shop1_826515.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "02 오르 바로끄",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
-		"color": "02 오르 바로끄"
+		"volume": "4.5g"
 	},
 	{
 		"name": "스모키 아이즈 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/295_shop1_826515.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "03 모도레 쉬크",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
-		"color": "03 모도레 쉬크"
+		"volume": "4.5g"
 	},
 	{
 		"name": "스모키 아이즈 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/295_shop1_826515.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "04 뉘드 엥제뉘",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
-		"color": "04 뉘드 엥제뉘"
+		"volume": "4.5g"
 	},
 	{
 		"name": "스모키 아이즈 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/295_shop1_826515.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "05 로즈 벵따쥬",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
-		"color": "05 로즈 벵따쥬"
+		"volume": "4.5g"
 	},
 	{
 		"name": "스모키 아이즈 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/295_shop1_826515.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "06 비올레 로맨틱",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
-		"color": "06 비올레 로맨틱"
+		"volume": "4.5g"
 	},
 	{
 		"name": "스모키 아이즈 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/295_shop1_826515.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "16 그리 파티",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
-		"color": "16 그리 파티"
+		"volume": "4.5g"
 	},
 	{
 		"name": "스모키 아이즈 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/295_shop1_826515.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "17 라이프 이즈 핑크",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
-		"color": "17 라이프 이즈 핑크"
+		"volume": "4.5g"
 	},
 	{
 		"name": "스모키 아이즈 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/295_shop1_826515.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "4.5g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "18 프룬에그니매틱",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=295&cate_no=26&display_group=1",
-		"color": "18 프룬에그니매틱"
+		"volume": "4.5g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "41 블랙 파티",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "41 블랙 파티"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "50 러빙그린",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "50 러빙그린"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "52 디스코 볼",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "52 디스코 볼"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "54 울트라 블랙",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "54 울트라 블랙"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "55 블랙 울트라 글리터",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "55 블랙 울트라 글리터"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "56 블루 잇 유어 셀프",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "56 블루 잇 유어 셀프"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "57 업앤 브라운",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "57 업앤 브라운"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "58 핑크 어바웃",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "58 핑크 어바웃"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "59 다이나 민트",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "59 다이나 민트"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "60 토프오프더 탑",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "60 토프오프더 탑"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "45 블루 리믹스",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "45 블루 리믹스"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "46 블루 네온",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "46 블루 네온"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "47 퍼플 나이트",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "47 퍼플 나이트"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "48 아토믹 블랙",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "48 아토믹 블랙"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "49 크레이지 어바웃 브라운",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "49 크레이지 어바웃 브라운"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "53 모닝 라임",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "53 모닝 라임"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "61 데님 펄스",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "61 데님 펄스"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "62 쏘 카키마티크",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "62 쏘 카키마티크"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "63 씨 블루 순",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "63 씨 블루 순"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "64 이그저브 오렌지",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "64 이그저브 오렌지"
+		"volume": "1.2g"
 	},
 	{
 		"name": "꽁뚜르 클러빙 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201501/286_shop1_157224.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.2g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "66 유토핑크",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=286&cate_no=26&display_group=1",
-		"color": "66 유토핑크"
+		"volume": "1.2g"
 	},
 	{
 		"name": "콜 에 콩뚜르",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/303_shop1_534963.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.14g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "72 느와르 엑스페르",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
-		"color": "72 느와르 엑스페르"
+		"volume": "1.14g"
 	},
 	{
 		"name": "콜 에 콩뚜르",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/303_shop1_534963.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.14g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "73 그리 엥제니유",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
-		"color": "73 그리 엥제니유"
+		"volume": "1.14g"
 	},
 	{
 		"name": "콜 에 콩뚜르",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/303_shop1_534963.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.14g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "76 울트라 블랙",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
-		"color": "76 울트라 블랙"
+		"volume": "1.14g"
 	},
 	{
 		"name": "콜 에 콩뚜르",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/303_shop1_534963.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.14g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "78 브랭 디자인 (-6,600원)",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
-		"color": "78 브랭 디자인 (-6,600원)"
+		"volume": "1.14g"
 	},
 	{
 		"name": "콜 에 콩뚜르",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/303_shop1_534963.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.14g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "80 베르 엑스프레시프",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
-		"color": "80 베르 엑스프레시프"
+		"volume": "1.14g"
 	},
 	{
 		"name": "콜 에 콩뚜르",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/303_shop1_534963.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "1.14g",
 		"salePrice": 19000,
 		"originalPrice": 19000,
+		"color": "82 블루 그라피께",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=303&cate_no=26&display_group=1",
-		"color": "82 블루 그라피께"
+		"volume": "1.14g"
 	},
 	{
 		"name": "볼륨 원 세컨드 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=332&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/332_shop1_288831.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "12ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "워셔블 마스카라",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=332&cate_no=26&display_group=1",
-		"color": "워셔블 마스카라"
+		"volume": "12ml"
 	},
 	{
 		"name": "볼륨 원 세컨드 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=332&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/332_shop1_288831.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "12ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "워터프루프 마스카라",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=332&cate_no=26&display_group=1",
-		"color": "워터프루프 마스카라"
+		"volume": "12ml"
 	},
 	{
 		"name": "다크 콜 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=329&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/329_shop1_655837.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "9ml",
 		"salePrice": 26000,
 		"originalPrice": 26000,
+		"color": "#",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=329&cate_no=26&display_group=1",
-		"color": ""
+		"volume": "9ml"
 	},
 	{
 		"name": "볼륨 글래머 맥스 홀리데이 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=324&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/324_shop1_309579.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "6ml",
 		"salePrice": 16000,
 		"originalPrice": 16000,
+		"color": "울트라 블랙",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=324&cate_no=26&display_group=1",
-		"color": "울트라 블랙"
+		"volume": "6ml"
 	},
 	{
 		"name": "볼륨 글래머 맥스 홀리데이 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=324&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/324_shop1_309579.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "6ml",
 		"salePrice": 16000,
 		"originalPrice": 16000,
+		"color": "일렉트릭 블루",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=324&cate_no=26&display_group=1",
-		"color": "일렉트릭 블루"
+		"volume": "6ml"
 	},
 	{
 		"name": "볼륨 글래머 맥스 마스카라 워터프루프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=290&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/290_shop1_262115.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "10ml",
 		"salePrice": 30000,
 		"originalPrice": 30000,
+		"color": "#",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=290&cate_no=26&display_group=1",
-		"color": ""
+		"volume": "10ml"
 	},
 	{
 		"name": "볼륨 글래머 맥스 데피니션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=289&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/289_shop1_717722.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "10ml",
 		"salePrice": 30000,
 		"originalPrice": 30000,
+		"color": "51 맥스 블랙",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=289&cate_no=26&display_group=1",
-		"color": "51 맥스 블랙"
+		"volume": "10ml"
 	},
 	{
 		"name": "라이너 뺑쏘",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=298&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201705/298_shop1_190099.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "2.5ml",
 		"salePrice": 27000,
 		"originalPrice": 27000,
+		"color": "32 느와르 보아뜨 (-5,400원)",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=298&cate_no=26&display_group=1",
-		"color": "32 느와르 보아뜨 (-5,400원)"
+		"volume": "2.5ml"
 	},
 	{
 		"name": "라이너 뺑쏘",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=298&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201705/298_shop1_190099.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "2.5ml",
 		"salePrice": 27000,
 		"originalPrice": 27000,
+		"color": "33 브렝 엔프레쇼니스뜨",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=298&cate_no=26&display_group=1",
-		"color": "33 브렝 엔프레쇼니스뜨"
+		"volume": "2.5ml"
 	},
 	{
 		"name": "트위스트 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=291&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201705/291_shop1_401786.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 32000,
 		"originalPrice": 32000,
+		"color": "12 일반",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=291&cate_no=26&display_group=1",
-		"color": "12 일반"
+		"volume": "8ml"
 	},
 	{
 		"name": "트위스트 마스카라",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=291&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201705/291_shop1_401786.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "8ml",
 		"salePrice": 32000,
 		"originalPrice": 32000,
+		"color": "13 워터프루프",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=291&cate_no=26&display_group=1",
-		"color": "13 워터프루프"
+		"volume": "8ml"
 	},
 	{
 		"name": "누드 스모키 아이섀도 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=352&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/352_shop1_856816.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "2.3g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "19 로제 부두와",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=352&cate_no=26&display_group=1",
-		"color": "19 로제 부두와"
+		"volume": "2.3g"
 	},
 	{
 		"name": "누드 스모키 아이섀도 트리오",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=352&cate_no=26&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/352_shop1_856816.jpg"
 		],
-		"category": "홈 > EYE",
-		"volume": "2.3g",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "20 세이블 쇼 (-4,800원)",
+		"category": "홈 > EYE",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=352&cate_no=26&display_group=1",
-		"color": "20 세이블 쇼 (-4,800원)"
+		"volume": "2.3g"
 	},
 	{
 		"name": "루즈 라끄",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/491_shop1_642352.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "6ml",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "01 마제스 핑크",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
-		"color": "01 마제스 핑크"
+		"volume": "6ml"
 	},
 	{
 		"name": "루즈 라끄",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/491_shop1_642352.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "6ml",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "02 투트 누드",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
-		"color": "02 투트 누드"
+		"volume": "6ml"
 	},
 	{
 		"name": "루즈 라끄",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/491_shop1_642352.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "6ml",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "03 졸리 브룬",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
-		"color": "03 졸리 브룬"
+		"volume": "6ml"
 	},
 	{
 		"name": "루즈 라끄",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/491_shop1_642352.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "6ml",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "04 셀프 피치",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
-		"color": "04 셀프 피치"
+		"volume": "6ml"
 	},
 	{
 		"name": "루즈 라끄",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/491_shop1_642352.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "6ml",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "05 레드 투 토즈",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
-		"color": "05 레드 투 토즈"
+		"volume": "6ml"
 	},
 	{
 		"name": "루즈 라끄",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/491_shop1_642352.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "6ml",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "06 프랑브아젤",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
-		"color": "06 프랑브아젤"
+		"volume": "6ml"
 	},
 	{
 		"name": "루즈 라끄",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/491_shop1_642352.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "6ml",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "07 퍼플델리크",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
-		"color": "07 퍼플델리크"
+		"volume": "6ml"
 	},
 	{
 		"name": "루즈 라끄",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/491_shop1_642352.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "6ml",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "08 블러디 베리",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=491&cate_no=27&display_group=1",
-		"color": "08 블러디 베리"
+		"volume": "6ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2506,16 +2507,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "01 펄소네네루즈",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "01 펄소네네루즈"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2535,16 +2536,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "02 프람보이스",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "02 프람보이스"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2564,16 +2565,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "03 핫 페퍼",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "03 핫 페퍼"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2593,16 +2594,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "04 피치 클럽",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "04 피치 클럽"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2622,16 +2623,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "05 올레플라밍고",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "05 올레플라밍고"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2651,16 +2652,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "06 핑크 퐁",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "06 핑크 퐁"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2680,16 +2681,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "07 누디스트",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "07 누디스트"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2709,16 +2710,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "08 그랜드 크루",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "08 그랜드 크루"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2738,16 +2739,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "09 해피 누드 이어",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "09 해피 누드 이어"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2767,16 +2768,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "10 돈 핑크 오브 잇",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "10 돈 핑크 오브 잇"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2796,16 +2797,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "11 쏘 햅 핑크",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "11 쏘 햅 핑크"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2825,16 +2826,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "12 보 브랭",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "12 보 브랭"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2854,16 +2855,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "13 펀치아",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "13 펀치아"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2883,16 +2884,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "14 플럼 플럼 걸",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "14 플럼 플럼 걸"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2912,16 +2913,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "15 레드 볼루션",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "15 레드 볼루션"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2941,16 +2942,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "16 허니 무드",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "16 허니 무드"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2970,16 +2971,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "17 쿨 브라운",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "17 쿨 브라운"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -2999,16 +3000,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "18 잇츠 레딩멘",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "18 잇츠 레딩멘"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3028,16 +3029,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "19 졸리 드 뱅",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "19 졸리 드 뱅"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3057,16 +3058,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "20 포피 데이즈",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "20 포피 데이즈"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3086,16 +3087,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "21 사페리프루네트",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "21 사페리프루네트"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3115,16 +3116,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "22 아브리코케트",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "22 아브리코케트"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3144,16 +3145,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "27 카페오레",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "27 카페오레"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3173,16 +3174,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "28 초코핑크",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "28 초코핑크"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3202,16 +3203,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "29 누드욕",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "29 누드욕"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3231,16 +3232,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "30 오렌지널",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "30 오렌지널"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3260,16 +3261,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "31 플로리 베이지",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "31 플로리 베이지"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3289,16 +3290,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "33 브룬 콰야블",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "33 브룬 콰야블"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3318,16 +3319,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "34 벨 아모로즈",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "34 벨 아모로즈"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈 에디션 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201709/282_shop1_194506.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/282_shop1_177300.jpg",
@@ -3347,120 +3348,120 @@
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_492391.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201601/282_shop1_564457.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.7ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "35 베이브 아이돌",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=282&cate_no=27&display_group=1",
-		"color": "35 베이브 아이돌"
+		"volume": "7.7ml"
 	},
 	{
 		"name": "루즈에디션 수플레 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201606/436_shop1_757295.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "8ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "01 오렌지리끄",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
-		"color": "01 오렌지리끄"
+		"volume": "8ml"
 	},
 	{
 		"name": "루즈에디션 수플레 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201606/436_shop1_757295.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "8ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "02 코크리코",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
-		"color": "02 코크리코"
+		"volume": "8ml"
 	},
 	{
 		"name": "루즈에디션 수플레 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201606/436_shop1_757295.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "8ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "03 브이아이피치",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
-		"color": "03 브이아이피치"
+		"volume": "8ml"
 	},
 	{
 		"name": "루즈에디션 수플레 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201606/436_shop1_757295.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "8ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "04 라비앙 로즈",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
-		"color": "04 라비앙 로즈"
+		"volume": "8ml"
 	},
 	{
 		"name": "루즈에디션 수플레 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201606/436_shop1_757295.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "8ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "05 푸치아 멜로우",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
-		"color": "05 푸치아 멜로우"
+		"volume": "8ml"
 	},
 	{
 		"name": "루즈에디션 수플레 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201606/436_shop1_757295.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "8ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "06 체리 리더스",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
-		"color": "06 체리 리더스"
+		"volume": "8ml"
 	},
 	{
 		"name": "루즈에디션 수플레 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201606/436_shop1_757295.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "8ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "07 플럼플럼 피도우",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
-		"color": "07 플럼플럼 피도우"
+		"volume": "8ml"
 	},
 	{
 		"name": "루즈에디션 수플레 벨벳",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201606/436_shop1_757295.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "8ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "08 카라멜리 멜로",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=453&cate_no=27&display_group=1",
-		"color": "08 카라멜리 멜로"
+		"volume": "8ml"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3481,16 +3482,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "02 베이지 트렌치",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "02 베이지 트렌치"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3511,16 +3512,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "03 피치 코지",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "03 피치 코지"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3541,16 +3542,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "04 로제 트위드",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "04 로제 트위드"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3571,16 +3572,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "05 브룬 보엠",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "05 브룬 보엠"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3601,16 +3602,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "06 로제 코겟",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "06 로제 코겟"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3631,16 +3632,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "07 푸치아 그라피티",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "07 푸치아 그라피티"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3661,16 +3662,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "10 루즈버즈",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "10 루즈버즈"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3691,16 +3692,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "11 프레즈리믹스",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "11 프레즈리믹스"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3721,16 +3722,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "12 로제 네온",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "12 로제 네온"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3751,16 +3752,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "13 루즈 젯셋",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "13 루즈 젯셋"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3781,16 +3782,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "14 프리티 프룬",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "14 프리티 프룬"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3811,16 +3812,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "15 루즈 포디엄",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "15 루즈 포디엄"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3841,16 +3842,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "17 로제 밀레짐",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "17 로제 밀레짐"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3871,16 +3872,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "18 바이올린 스트래스",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "18 바이올린 스트래스"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3901,16 +3902,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "36 퍼플재지",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "36 퍼플재지"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3931,16 +3932,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "41 핑크 캣워크",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "41 핑크 캣워크"
+		"volume": "3.5g"
 	},
 	{
 		"name": "루즈 에디션",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201509/277_shop1_988456.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_611925.jpg",
@@ -3961,16 +3962,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_803034.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201510/277_shop1_381585.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "3.5g",
 		"salePrice": 25000,
 		"originalPrice": 25000,
+		"color": "42 푸치아 사리",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=277&cate_no=27&display_group=1",
-		"color": "42 푸치아 사리"
+		"volume": "3.5g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -3983,16 +3984,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "01 레드선라이즈",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "01 레드선라이즈"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4005,16 +4006,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "02 푸치아리브르",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "02 푸치아리브르"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4027,16 +4028,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "03 오렌지펀치",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "03 오렌지펀치"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4049,16 +4050,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "04 피치온더비치",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "04 피치온더비치"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4071,16 +4072,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "05 레드아일랜드",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "05 레드아일랜드"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4093,16 +4094,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "06 플럼 러시안",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "06 플럼 러시안"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4115,16 +4116,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "07 프라우들리 네이키드",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "07 프라우들리 네이키드"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4137,16 +4138,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "08 스윗 마끼아토",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "08 스윗 마끼아토"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4159,16 +4160,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "09 핑킹 오브 잇",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "09 핑킹 오브 잇"
+		"volume": "2.75g"
 	},
 	{
 		"name": "써니스틱",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201506/323_shop1_353980.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_167250.jpg",
@@ -4181,29 +4182,29 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_896616.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/323_shop1_602475.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "2.75g",
 		"salePrice": 22000,
 		"originalPrice": 22000,
+		"color": "10 롤리 포피",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=323&cate_no=27&display_group=1",
-		"color": "10 롤리 포피"
+		"volume": "2.75g"
 	},
 	{
 		"name": "로제 익스클루시프",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=279&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201602/279_shop1_971748.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "7.5ml",
 		"salePrice": 24000,
 		"originalPrice": 24000,
+		"color": "#",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=279&cate_no=27&display_group=1",
-		"color": ""
+		"volume": "7.5ml"
 	},
 	{
 		"name": "루즈에디션 아쿠아 락",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/351_shop1_593232.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_926903.jpg",
@@ -4215,16 +4216,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_612801.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_315296.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "01 아페치쏭",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
-		"color": "01 아페치쏭"
+		"volume": "10ml"
 	},
 	{
 		"name": "루즈에디션 아쿠아 락",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/351_shop1_593232.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_926903.jpg",
@@ -4236,16 +4237,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_612801.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_315296.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "02 로즈 온 더 락 (-5,600원)",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
-		"color": "02 로즈 온 더 락 (-5,600원)"
+		"volume": "10ml"
 	},
 	{
 		"name": "루즈에디션 아쿠아 락",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/351_shop1_593232.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_926903.jpg",
@@ -4257,16 +4258,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_612801.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_315296.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "03 브륀 코야블",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
-		"color": "03 브륀 코야블"
+		"volume": "10ml"
 	},
 	{
 		"name": "루즈에디션 아쿠아 락",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/351_shop1_593232.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_926903.jpg",
@@ -4278,16 +4279,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_612801.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_315296.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "04 비앙 씨 뚜 로즈",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
-		"color": "04 비앙 씨 뚜 로즈"
+		"volume": "10ml"
 	},
 	{
 		"name": "루즈에디션 아쿠아 락",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/351_shop1_593232.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_926903.jpg",
@@ -4299,16 +4300,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_612801.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_315296.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "05 레드 마이 립",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
-		"color": "05 레드 마이 립"
+		"volume": "10ml"
 	},
 	{
 		"name": "루즈에디션 아쿠아 락",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/351_shop1_593232.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_926903.jpg",
@@ -4320,16 +4321,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_612801.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_315296.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "06 필링 레디",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
-		"color": "06 필링 레디"
+		"volume": "10ml"
 	},
 	{
 		"name": "루즈에디션 아쿠아 락",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/351_shop1_593232.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_926903.jpg",
@@ -4341,16 +4342,16 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_612801.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_315296.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "07 푸치아 페르쉐",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
-		"color": "07 푸치아 페르쉐"
+		"volume": "10ml"
 	},
 	{
 		"name": "루즈에디션 아쿠아 락",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/351_shop1_593232.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_926903.jpg",
@@ -4362,220 +4363,518 @@
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_612801.jpg",
 			"http://bourjois-mall.com/web/product/extra/small/201506/351_shop1_315296.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "10ml",
 		"salePrice": 28000,
 		"originalPrice": 28000,
+		"color": "08 베이브 아이돌 (-5,600원)",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=351&cate_no=27&display_group=1",
-		"color": "08 베이브 아이돌 (-5,600원)"
+		"volume": "10ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "03 립 아카데믹",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "03 립 아카데믹"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "04 립 폴레믹",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "04 립 폴레믹"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "05 히포테틱",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "05 히포테틱"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "18 오니릭",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "18 오니릭"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "20 심포닉",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "20 심포닉"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "23 매그니픽",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "23 매그니픽"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "29 카라스마틱",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "29 카라스마틱"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "33 브룬 포에틱",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "33 브룬 포에틱"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "46 리릭",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "46 리릭"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "48 로맨틱",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "48 로맨틱"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "51 키메릭",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "51 키메릭"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "52 아이딜릭",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "52 아이딜릭"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "54 일레토닉",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "54 일레토닉"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "57 익세트릭",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "57 익세트릭"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "59 알레고리",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "59 알레고리"
+		"volume": "5.7ml"
 	},
 	{
 		"name": "NEW 에페 3D 립글로스",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
 		"image": [
 			"http://bourjois-mall.com/web/product/small/201502/280_shop1_401708.jpg"
 		],
-		"category": "홈 > LIP",
-		"volume": "5.7ml",
 		"salePrice": 23000,
 		"originalPrice": 23000,
+		"color": "60 오 피리",
+		"category": "홈 > LIP",
 		"brand": "bourjois",
-		"url": "http://bourjois-mall.com/product/detail.html?product_no=280&cate_no=27&display_group=1",
-		"color": "60 오 피리"
+		"volume": "5.7ml"
+	},
+	{
+		"name": "2018 부르조아 TOP 5 기획전",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=529&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201812/a7284d5ba2c3bc676ba15601166dce29.jpg"
+		],
+		"salePrice": "#",
+		"originalPrice": "#",
+		"color": "#",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "01 펄소네 느 루즈",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "02 프람보이즈",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "03 핫페퍼",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "04 피치클럽",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "07 누디스트",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "08 그랜드 크루",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "09 해피누드이어",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "10 돈 핑크오브 잇",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "11 쏘햅핑크",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "12 보브랭",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "13 펀치아",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "14 플럼플럼 걸",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "15 레드 볼루션",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "16 허니무드",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "18 잇츠 레딩멘",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "19 졸리드뱅",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "20 포피데이즈",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "22 아브리코케트",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "27 카페올레",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "Velvet Twenty",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=527&cate_no=60&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/65780f7b8a18437e4208be0340a39c64.jpg"
+		],
+		"salePrice": 19600,
+		"originalPrice": 28000,
+		"color": "28 초코핑크",
+		"category": "홈 > EXCLUSIVE > LINE",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "2018 FW 룩북 ② 더스티 로즈 LOOK",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=526&cate_no=81&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201811/9c453d5d47117ae054dd45205aa1785d.jpg"
+		],
+		"salePrice": "#",
+		"originalPrice": "#",
+		"color": "#",
+		"category": "홈 > 2018 > LOOK > BOOK",
+		"brand": "bourjois",
+		"volume": "#"
+	},
+	{
+		"name": "2018 FW 룩북 ① 골드 브론즈 LOOK",
+		"url": "http://bourjois-mall.com/product/detail.html?product_no=523&cate_no=81&display_group=1",
+		"image": [
+			"http://bourjois-mall.com/web/product/small/201809/714ba33770a43860f57442ee66d68705.jpg"
+		],
+		"salePrice": "#",
+		"originalPrice": "#",
+		"color": "#",
+		"category": "홈 > 2018 > LOOK > BOOK",
+		"brand": "bourjois",
+		"volume": "#"
 	}
 ]
