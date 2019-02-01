@@ -15,6 +15,7 @@ by 영진
 7. brand (브랜드명) text
 8. url (상품정보 url) text(url)
 9. color (색상) text
+10. type (볼륨, 색상 제외 옵션들)
 
 ## main
 
