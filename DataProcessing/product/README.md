@@ -66,12 +66,16 @@ categoryList = [category.something for category in categories]
 return categoryList
 ```
 
-### clickSeeMoreButton()
+### clickSeeMoreButton() / clickNextPage()
 ```python
-
+    # nextPage 버튼 클릭 시 상품목록이 바뀐다면, 무조건 3초를 기다리는게 아니라
+    # 그 페이지에서 itemList를 얻고 기존 itemList에 이미 존재한다면 time.sleep(n), continue
+    # js로 작성된 경우 페이지가 아직 바뀌지 않아서 html이 그대로일 수 있다.
     while True:
         try:
-            seeMoreButton = driver.find_element_by_class_name(seeMoreButton)            
+            seeMoreButton = driver.find_element_by_class_name(seeMoreButton)
+            # button에 커서가 위치하지 않을수도 있고, 그 위치에 다른게 덮어써져있는경우도 있다. 이 때 커서 위치를 조정한다.
+            # driver.execute_script('arguments[0].scrollIntoView(true);', target) # target이 보이도록 scroll하기
             seeMoreButton.click()
             time.sleep(3)
             
